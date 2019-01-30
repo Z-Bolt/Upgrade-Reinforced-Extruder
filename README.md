@@ -1,4 +1,4 @@
-# Small upgrade of the extruder.
+# Improvement of the Z-Bolt extruder.
 
 This version of extruder is reinforced by aluminium parts. Also extruder is redesined for 8mm brass extruder drive gear (Photo 1-75mm-Brass-Extruderl-Drive-Gear.jpg).
 
